@@ -1,0 +1,19 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    
+    
+background-image:url("blue.jpg"); 
+	background-position:;
+	font-family: Arial;
+	background-size: cover;
+	text-align: center;
+	
+	color:black;
+}
